@@ -52,6 +52,11 @@
   color:var(--second-bg-color);
 }
 
+.jc-center,
+.row {
+  justify-content: center;
+}
+
 .single-line-text-overflow {
   overflow: hidden;
   white-space: nowrap;

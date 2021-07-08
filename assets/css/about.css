@@ -1,0 +1,16 @@
+.about {
+    text-align: center;
+    padding: 100px;
+}
+
+.logo-head {
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.text-logo {
+    color: #727272;
+    font-size: 16px;
+    line-height: 1.5;
+}
